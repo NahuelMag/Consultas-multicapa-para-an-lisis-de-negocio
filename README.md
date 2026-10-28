@@ -111,8 +111,4 @@ Este trabajo demuestra cómo utilizar SQL para transformar datos relacionales en
 
 A través de las consultas desarrolladas se pueden comparar resultados por categoría, detectar clientes sin compras y analizar las preferencias de compra individuales. De esta manera, se aplican conceptos fundamentales de PostgreSQL a situaciones habituales de análisis de negocio.
 
----
 
-**Autor:** [Tu nombre]
-
-**Repositorio:** [Enlace al repositorio de GitHub]
